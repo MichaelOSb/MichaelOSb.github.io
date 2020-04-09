@@ -4,4 +4,4 @@
 # Михаил
 Сайтики
 
-[Урок 12](MichaelOSb.github.io/lesson_12/ "Первый сайтик")
+[Урок 12](MichaelOSb.github.io/lesson_12/ "Первый сайтик") - работа с репозиторием github.
